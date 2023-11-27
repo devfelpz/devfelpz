@@ -4,6 +4,7 @@
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=devfelpz&show_icons=true&theme=dracula)
 
+
 ## Tecnologias que uso no meu dia
 
 <div style="display:inline_block"><br/>
@@ -13,5 +14,9 @@
 <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-
 <div>
+  
+## Últimos projetos
+<div style="diplay:inline_block"><br/>
+<a href="https://felpz-petlife.netlify.app/" target="_blank">PetLife</a>
+</div>
