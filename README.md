@@ -19,4 +19,5 @@
 ## Últimos projetos
 <div style="diplay:inline_block"><br/>
 <a href="https://felpz-petlife.netlify.app/" target="_blank">PetLife</a>
+<a href="https://devfelpz-emailbox.netlify.app" target="_blank">MailBox</a>
 </div>
